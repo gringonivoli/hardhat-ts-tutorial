@@ -2,6 +2,7 @@ import "@typechain/hardhat";
 import "@nomiclabs/hardhat-ethers";
 import "@nomiclabs/hardhat-waffle";
 import "solidity-coverage";
+import "hardhat-gas-reporter";
 import { HardhatUserConfig } from "hardhat/config";
 
 
