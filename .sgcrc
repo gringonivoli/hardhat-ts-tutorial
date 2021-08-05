@@ -1,0 +1,11 @@
+{
+  "body": true,
+  "scope": true,
+  "emoji": true,
+  "lowercaseTypes": true,
+  "initialCommit": {
+    "isEnabled": true,
+    "emoji": ":tada:",
+    "message": "Initial commit"
+  }
+}
